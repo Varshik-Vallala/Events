@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.image-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.event-image {
+  height: 200px;
+  width: 350px;
+  cursor: pointer;
+}
+.location {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.active-event {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}

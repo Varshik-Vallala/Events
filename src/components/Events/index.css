@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.events-page-container {
+  display: flex;
+}
+.events-container {
+  background-color: #64748b;
+  color: #fff;
+  padding: 10px 70px;
+  font-family: 'Roboto';
+  width: 60%;
+}
+.events-list {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.output-view {
+  padding: 0 50px;
+  width: 40%;
+}
